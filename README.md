@@ -1,1 +1,1 @@
-React exercise - Contact App: 
+React exercise - Contact App: https://grzegorz-turek.github.io/react-contactsapp/
